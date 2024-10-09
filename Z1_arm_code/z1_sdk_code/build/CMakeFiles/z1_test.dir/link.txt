@@ -1,0 +1,1 @@
+/usr/lib/ccache/c++  -O3 -std=c++14 -pthread -rdynamic CMakeFiles/z1_test.dir/z1_test.cpp.o -o z1_test   -L/home/shb/unitree_z1_ws/src/z1_sdk/lib  -Wl,-rpath,/home/shb/unitree_z1_ws/src/z1_sdk/lib -lZ1_SDK_x86_64 

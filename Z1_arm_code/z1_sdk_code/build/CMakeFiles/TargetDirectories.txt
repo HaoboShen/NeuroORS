@@ -1,0 +1,3 @@
+/home/shb/z1_code/z1_sdk_code/build/CMakeFiles/z1_test.dir
+/home/shb/z1_code/z1_sdk_code/build/CMakeFiles/edit_cache.dir
+/home/shb/z1_code/z1_sdk_code/build/CMakeFiles/rebuild_cache.dir
